@@ -125,7 +125,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ### Classification Report
 
-![classification_report](/clas_repo.png)
+![classification_report](/class_repo.png)
 </br>
 </br>
 </br>
